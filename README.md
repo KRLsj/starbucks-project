@@ -6,8 +6,6 @@
 
 **참여인원** : 1인 (개인 프로젝트) 
 
-<br>
-
 **스킬 및 사용 툴**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&max-width=100%)
