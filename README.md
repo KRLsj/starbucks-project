@@ -1,18 +1,14 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/flamboyant-lumiere-482a1e/deploys)
-
-# ☕ STARBUCKS
+# ☕ STARBUCKS☕
 
 ### < 스타벅스 홈페이지 클론 코딩>
 
-🗓️ **작업기간** : 2022. 05. 01 ~ 2022. 05. 21
+**작업기간** : 2022. 05. 01 ~ 2022. 05. 21
 
-👨‍💻 **참여인원** : 1인 (개인 프로젝트)
-
-- #### [Open Page](http://127.0.0.1:5500/index.html)  
+**참여인원** : 1인 (개인 프로젝트) 
 
 <br>
 
-🌱 **스킬 및 사용 툴**
+**스킬 및 사용 툴**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&max-width=100%)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
